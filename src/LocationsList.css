@@ -1,0 +1,145 @@
+ 
+.locations-list {
+  background: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.list-header {
+  margin-bottom: 20px;
+}
+
+.header-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #6c757d;
+  font-size: 14px;
+}
+
+.loading-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: #6c757d;
+}
+
+.loading-state svg {
+  color: #4a90e2;
+  margin-bottom: 12px;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.locations-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.location-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 16px;
+  transition: all 0.2s;
+  border: 1px solid #e9ecef;
+}
+
+.location-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+  gap: 12px;
+}
+
+.location-name {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+}
+
+.location-name svg {
+  color: #4a90e2;
+  flex-shrink: 0;
+}
+
+.location-name h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #2c3e50;
+  word-break: break-word;
+}
+
+.status-badge {
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.status-badge.open {
+  background: #d4edda;
+  color: #155724;
+}
+
+.status-badge.closed {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 14px;
+}
+
+.info-row .label {
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.info-row .value {
+  color: #2c3e50;
+  text-align: right;
+  flex: 1;
+}
+
+.hours-text {
+  font-size: 13px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .locations-list {
+    padding: 16px;
+  }
+
+  .card-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .status-badge {
+    align-self: flex-start;
+  }
+}
+
