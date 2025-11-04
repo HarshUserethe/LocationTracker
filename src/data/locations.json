@@ -8,7 +8,8 @@
     "open_to": "12:45",
     "then_open_from": "16:30",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "open_to": "12:30",
     "then_open_from": "16:00",
     "then_open_to": "21:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "open_to": "12:00",
     "then_open_from": "16:00",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "open_to": "13:00",
     "then_open_from": "16:30",
     "then_open_to": "20:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "open_to": "12:00",
     "then_open_from": "18:30",
     "then_open_to": "20:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "open_to": "13:00",
     "then_open_from": "16:30",
     "then_open_to": "20:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "open_to": "11:30",
     "then_open_from": "17:30",
     "then_open_to": "21:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "open_to": "12:00",
     "then_open_from": "16:00",
     "then_open_to": "20:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "open_to": "11:00",
     "then_open_from": "16:00",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "open_to": "12:30",
     "then_open_from": "15:00",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "open_to": "20:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
     "open_to": "12:00",
     "then_open_from": "17:00",
     "then_open_to": "09:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
     "open_to": "13:00",
     "then_open_from": "16:00",
     "then_open_to": "20:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
     "open_to": "13:00",
     "then_open_from": "16:00",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
     "open_to": "13:00",
     "then_open_from": "16:00",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
     "open_to": "12:00",
     "then_open_from": "18:00",
     "then_open_to": "21:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
     "open_to": "12:30",
     "then_open_from": "16:00",
     "then_open_to": "20:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
     "open_to": "12:30",
     "then_open_from": "16:00",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+    "url": ""
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
     "open_to": "12:30",
     "then_open_from": "18:00",
     "then_open_to": "20:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+     "url": ""
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@
     "open_to": "12:00",
     "then_open_from": "16:00",
     "then_open_to": "19:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan".
+     "url": ""
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@
     "open_to": "12:00",
     "then_open_from": "16:00",
     "then_open_to": "20:00",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+    "url": ""
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@
     "open_to": "12:00",
     "then_open_from": "16:30",
     "then_open_to": "18:30",
-    "filter": "vrindavan"
+    "filter": "vrindavan",
+    "url": ""
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@
     "open_to": "21:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "govardhan"
+    "filter": "govardhan",
+    "url": ""
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@
     "open_to": "22:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "govardhan"
+    "filter": "govardhan",
+    "url": ""
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@
     "open_to": "12:30",
     "then_open_from": "16:00",
     "then_open_to": "20:30",
-    "filter": "govardhan"
+    "filter": "govardhan",
+    "url": ""
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@
     "open_to": "23:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "govardhan"
+    "filter": "govardhan",
+    "url": ""
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@
     "open_to": "23:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "govardhan"
+    "filter": "govardhan",
+    "url": ""
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@
     "open_to": "23:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "govardhan"
+    "filter": "govardhan",
+    "url": ""
   },
   {
     "id": 29,
@@ -316,7 +344,8 @@
     "open_to": "12:00",
     "then_open_from": "15:00",
     "then_open_to": "20:30",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 30,
@@ -327,7 +356,8 @@
     "open_to": "10:30",
     "then_open_from": "15:30",
     "then_open_to": "18:00",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 31,
@@ -338,7 +368,8 @@
     "open_to": "23:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 32,
@@ -349,7 +380,8 @@
     "open_to": "12:00",
     "then_open_from": "14:00",
     "then_open_to": "20:30",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 33,
@@ -360,7 +392,8 @@
     "open_to": "12:00",
     "then_open_from": "14:00",
     "then_open_to": "20:30",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 34,
@@ -371,7 +404,8 @@
     "open_to": "11:30",
     "then_open_from": "16:30",
     "then_open_to": "20:00",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 35,
@@ -382,7 +416,8 @@
     "open_to": "12:00",
     "then_open_from": "14:00",
     "then_open_to": "20:30",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 36,
@@ -393,7 +428,8 @@
     "open_to": "12:00",
     "then_open_from": "15:00",
     "then_open_to": "20:00",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 37,
@@ -404,7 +440,8 @@
     "open_to": "23:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "mathura"
+    "filter": "mathura",
+    "url": ""
   },
   {
     "id": 38,
@@ -415,7 +452,8 @@
     "open_to": "13:00",
     "then_open_from": "16:30",
     "then_open_to": "20:00",
-    "filter": "barsana"
+    "filter": "barsana",
+    "url": ""
   },
   {
     "id": 39,
@@ -426,6 +464,7 @@
     "open_to": "12:00",
     "then_open_from": "16:30",
     "then_open_to": "20:00",
-    "filter": "barsana"
+    "filter": "barsana",
+    "url": ""
   }
 ]
