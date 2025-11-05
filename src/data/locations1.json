@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "location": "Iskcon Temple",
+    "location": "Isckon Temple",
     "longitude": 77.67739710908234,
     "latitude": 27.572434839597477,
-    "open_from": "04:30",
-    "open_to": "12:45",
-    "then_open_from": "16:30",
+    "open_from": "07:30",
+    "open_to": "12:30",
+    "then_open_from": "16:00",
     "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": "https://iskconvrindavan.com/assets/video-BqaOaL1r.png"
+    "url":"https://iskconvrindavan.com/assets/video-BqaOaL1r.png"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "then_open_from": "16:00",
     "then_open_to": "21:00",
     "filter": "vrindavan",
-    "url": "https://www.brijwale.com/wp-content/uploads/2021/01/DSC_0122-2.jpg"
+    "url":"https://www.brijwale.com/wp-content/uploads/2021/01/DSC_0122-2.jpg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "then_open_from": "16:00",
     "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": "https://thetempleguru.com/wp-content/uploads/2024/03/Radha-Madan-Mohan-Temple-Vrindavan-11.jpg"
+    "url":"https://thetempleguru.com/wp-content/uploads/2024/03/Radha-Madan-Mohan-Temple-Vrindavan-11.jpg"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "then_open_from": "16:30",
     "then_open_to": "20:30",
     "filter": "vrindavan",
-    "url": "https://miro.medium.com/1*CP_m0SWOhok7L2ie2wSWNg.jpeg"
+    "url":"https://miro.medium.com/1*CP_m0SWOhok7L2ie2wSWNg.jpeg"
   },
   {
     "id": 5,
@@ -55,57 +55,57 @@
     "open_from": "07:00",
     "open_to": "12:00",
     "then_open_from": "18:30",
-    "then_open_to": "20:30",
+    "then_open_to": "21:00",
     "filter": "vrindavan",
-    "url": "https://faujitoursandtravels.com/wp-content/uploads/2024/10/radha-vallabh-mandir-5.jpg"
+    "url":"https://faujitoursandtravels.com/wp-content/uploads/2024/10/radha-vallabh-mandir-5.jpg"
   },
   {
     "id": 6,
     "location": "Mira Bai Temple",
     "longitude": 77.6970185246884,
     "latitude": 27.584242815836774,
-    "open_from": "08:45",
-    "open_to": "13:00",
-    "then_open_from": "16:30",
-    "then_open_to": "20:30",
+    "open_from": "00:00",
+    "open_to": "00:00",
+    "then_open_from": "00:00",
+    "then_open_to": "00:00",
     "filter": "vrindavan",
-    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c1/4f/ea/meera-bai-temple-vrindavan.jpg?w=900&h=500&s=1"
+    "url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c1/4f/ea/meera-bai-temple-vrindavan.jpg?w=900&h=500&s=1"
   },
   {
     "id": 7,
     "location": "Gopeshwar Mahadev",
     "longitude": 77.7031280688677,
     "latitude": 27.58523323300135,
-    "open_from": "03:30",
-    "open_to": "11:30",
-    "then_open_from": "17:30",
+    "open_from": "08:30",
+    "open_to": "12:00",
+    "then_open_from": "17:00",
     "then_open_to": "21:00",
     "filter": "vrindavan",
-    "url": "https://shrimathuraji.com/wp-content/uploads/2024/04/Gopeshwar-Mahadev-Ji-5.jpg"
+    "url":"https://shrimathuraji.com/wp-content/uploads/2024/04/Gopeshwar-Mahadev-Ji-5.jpg"
   },
   {
     "id": 8,
-    "location": "Shree Govind Dev Ji Mandir",
+    "location": "Govind Dev Ji Mandir",
     "longitude": 77.69941213818075,
     "latitude": 27.581504928948583,
-    "open_from": "05:30",
-    "open_to": "12:00",
-    "then_open_from": "16:00",
+    "open_from": "09:00",
+    "open_to": "11:30",
+    "then_open_from": "17:00",
     "then_open_to": "20:30",
     "filter": "vrindavan",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKalXFT2S6k5HY2xV6ZQmQTzXwYR8O6nX5vg&s"
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKalXFT2S6k5HY2xV6ZQmQTzXwYR8O6nX5vg&s"
   },
   {
     "id": 9,
-    "location": "Rangnath Ji",
+    "location": "RangNath",
     "longitude": 77.70229460934497,
     "latitude": 27.582699927290108,
-    "open_from": "06:00",
-    "open_to": "11:00",
-    "then_open_from": "16:00",
-    "then_open_to": "20:00",
+    "open_from": "08:00",
+    "open_to": "11:30",
+    "then_open_from": "15:00",
+    "then_open_to": "18:00",
     "filter": "vrindavan",
-    "url": "https://www.indianpanorama.in/assets/images/temples/card/rangnath-ji-mandir-vrindavan.webp"
+    "url":"https://www.indianpanorama.in/assets/images/temples/card/rangnath-ji-mandir-vrindavan.webp"
   },
   {
     "id": 10,
@@ -117,43 +117,43 @@
     "then_open_from": "15:00",
     "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": "https://images.brajrasik.org/tatiya-sthan-vrindavan-m.jpeg"
+    "url":"https://images.brajrasik.org/tatiya-sthan-vrindavan-m.jpeg"
   },
   {
     "id": 11,
     "location": "Vanshi Vat",
     "longitude": 77.69629390100961,
     "latitude": 27.585085081230417,
-    "open_from": "07:00",
-    "open_to": "20:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
     "filter": "vrindavan",
-    "url": "https://images.brajrasik.org/vanshivat-and-bhajan-kutirs-of-various-saints-bhandirvan-m.jpeg"
+    "url":"https://images.brajrasik.org/vanshivat-and-bhajan-kutirs-of-various-saints-bhandirvan-m.jpeg"
   },
   {
     "id": 12,
     "location": "Bhandir Van",
     "longitude": 77.70733162209845,
     "latitude": 27.655663633603474,
-    "open_from": "08:30",
-    "open_to": "12:00",
-    "then_open_from": "17:00",
-    "then_open_to": "09:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
+    "then_open_from": "00:00",
+    "then_open_to": "00:00",
     "filter": "vrindavan",
-    "url": "https://images.brajrasik.org/5e7c68af817c0e0061640548.jpeg"
+    "url":"https://images.brajrasik.org/5e7c68af817c0e0061640548.jpeg"
   },
   {
-    "id": 13,
+    "id": 131,
     "location": "Prem Mandir",
     "longitude": 77.67186480934453,
     "latitude": 27.57218001081636,
     "open_from": "08:00",
     "open_to": "13:00",
     "then_open_from": "16:00",
-    "then_open_to": "20:30",
+    "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/PremMandirSideViewFromCanteen.jpg"
+    "url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/PremMandirSideViewFromCanteen.jpg"
   },
   {
     "id": 14,
@@ -165,19 +165,19 @@
     "then_open_from": "16:00",
     "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": "https://faujitoursandtravels.com/wp-content/uploads/2024/10/2024-08-14.jpg"
+    "url":"https://faujitoursandtravels.com/wp-content/uploads/2024/10/2024-08-14.jpg"
   },
   {
     "id": 15,
     "location": "Keshi Ghat - Yamuna Aarti",
     "longitude": 77.69927444543096,
     "latitude": 27.58757908629912,
-    "open_from": "08:00",
-    "open_to": "13:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "16:00",
     "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": "https://faujitoursandtravels.com/wp-content/uploads/2024/09/KESHI-ghat.jpeg"
+    "url":"https://faujitoursandtravels.com/wp-content/uploads/2024/09/KESHI-ghat.jpeg"
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
     "then_open_from": "18:00",
     "then_open_to": "21:00",
     "filter": "vrindavan",
-    "url": "https://www.mathuravrindavantourpackages.com/images/temple/slider/shah-ji-temple-1.webp"
+    "url":"https://www.mathuravrindavantourpackages.com/images/temple/slider/shah-ji-temple-1.webp"
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
     "then_open_from": "16:00",
     "then_open_to": "20:30",
     "filter": "vrindavan",
-    "url": "https://shrimathuraji.com/wp-content/uploads/2024/04/pagal-baba-temple-1.jpg"
+    "url":"https://shrimathuraji.com/wp-content/uploads/2024/04/pagal-baba-temple-1.jpg"
   },
   {
     "id": 18,
@@ -213,19 +213,19 @@
     "then_open_from": "16:00",
     "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": ""
+    "url":""
   },
   {
     "id": 19,
-    "location": "RadhaRaman Ji",
+    "location": "Radharaman Ji",
     "longitude": 77.69900817217388,
     "latitude": 27.58568518029254,
-    "open_from": "08:30",
-    "open_to": "12:30",
+    "open_from": "05:00",
+    "open_to": "12:15",
     "then_open_from": "18:00",
-    "then_open_to": "20:30",
+    "then_open_to": "21:00",
     "filter": "vrindavan",
-    "url": "https://www.bsanatan.com/images/articles/17054880830_large.jpg"
+    "url":"https://www.bsanatan.com/images/articles/17054880830_large.jpg"
   },
   {
     "id": 20,
@@ -237,11 +237,11 @@
     "then_open_from": "16:00",
     "then_open_to": "19:00",
     "filter": "vrindavan",
-    "url": "https://www.mathuravrindavantourpackages.com/images/temple/slider/nidhivan-temple-1.webp"
+    "url":"https://www.mathuravrindavantourpackages.com/images/temple/slider/nidhivan-temple-1.webp"
   },
   {
     "id": 21,
-    "location": " Shree Priyakant Ju Mandir",
+    "location": "Priyakant Mandir",
     "longitude": 77.63838664148157,
     "latitude": 27.563915902716428,
     "open_from": "06:00",
@@ -249,7 +249,7 @@
     "then_open_from": "16:00",
     "then_open_to": "20:00",
     "filter": "vrindavan",
-    "url": "https://www.mathuravrindavantourpackages.com/images/temple/slider/shri-priyakant-ju-temple-2.webp"
+    "url":"https://www.mathuravrindavantourpackages.com/images/temple/slider/shri-priyakant-ju-temple-2.webp"
   },
   {
     "id": 22,
@@ -258,34 +258,34 @@
     "latitude": 27.582623527396223,
     "open_from": "07:00",
     "open_to": "12:00",
-    "then_open_from": "16:30",
-    "then_open_to": "18:30",
+    "then_open_from": "16:00",
+    "then_open_to": "18:00",
     "filter": "vrindavan",
-    "url": ""
+    "url":""
   },
   {
     "id": 23,
     "location": "Daan Ghati Mandri",
     "longitude": 77.46277600098693,
     "latitude": 27.495430072153187,
-    "open_from": "07:00",
-    "open_to": "21:00",
-    "then_open_from": "00:00",
-    "then_open_to": "00:00",
+    "open_from": "07:30",
+    "open_to": "12:30",
+    "then_open_from": "16:00",
+    "then_open_to": "20:30",
     "filter": "govardhan",
-    "url": ""
+    "url":""
   },
   {
     "id": 24,
     "location": "Puchri Ka Lauta",
     "longitude": 77.42871062653471,
     "latitude": 27.459154358809073,
-    "open_from": "04:00",
-    "open_to": "22:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
     "filter": "govardhan",
-    "url": ""
+    "url":""
   },
   {
     "id": 25,
@@ -297,43 +297,43 @@
     "then_open_from": "16:00",
     "then_open_to": "20:30",
     "filter": "govardhan",
-    "url": ""
+    "url":""
   },
   {
     "id": 26,
     "location": "Radha Kund",
     "longitude": 77.49085767215871,
     "latitude": 27.52563528771861,
-    "open_from": "04:00",
-    "open_to": "23:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
     "filter": "govardhan",
-    "url": ""
+    "url":""
   },
   {
     "id": 27,
     "location": "Kusum Sarovar",
     "longitude": 77.47816360564046,
     "latitude": 27.512058637475278,
-    "open_from": "04:00",
-    "open_to": "23:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
     "filter": "govardhan",
-    "url": ""
+    "url":""
   },
   {
     "id": 28,
     "location": "Mansi Ganga",
     "longitude": 77.465668930238,
     "latitude": 27.498429010596073,
-    "open_from": "04:00",
-    "open_to": "23:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
     "filter": "govardhan",
-    "url": ""
+    "url":""
   },
   {
     "id": 29,
@@ -343,9 +343,9 @@
     "open_from": "06:00",
     "open_to": "12:00",
     "then_open_from": "15:00",
-    "then_open_to": "20:30",
+    "then_open_to": "20:00",
     "filter": "mathura",
-    "url": ""
+    "url":""
   },
   {
     "id": 30,
@@ -355,57 +355,57 @@
     "open_from": "06:30",
     "open_to": "10:30",
     "then_open_from": "15:30",
-    "then_open_to": "18:00",
+    "then_open_to": "18:30",
     "filter": "mathura",
-    "url": ""
+    "url":""
   },
   {
     "id": 31,
     "location": "Vishram Ghat",
     "longitude": 77.68635849584955,
     "latitude": 27.504908818929234,
-    "open_from": "04:00",
-    "open_to": "23:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
     "filter": "mathura",
-    "url": ""
+    "url":""
   },
   {
     "id": 32,
     "location": "Birla Mandir (Mathura Road)",
     "longitude": 77.67483651448782,
     "latitude": 27.528432927242832,
-    "open_from": "05:30",
-    "open_to": "12:00",
-    "then_open_from": "14:00",
+    "open_from": "08:30",
+    "open_to": "12:30",
+    "then_open_from": "16:00",
     "then_open_to": "20:30",
     "filter": "mathura",
-    "url": ""
+    "url":""
   },
   {
     "id": 33,
     "location": "84 Khamba - Gokul",
     "longitude": 77.26590148051163,
     "latitude": 27.65134771796594,
-    "open_from": "05:30",
-    "open_to": "12:00",
-    "then_open_from": "14:00",
-    "then_open_to": "20:30",
-    "filter": "mathura",
-    "url": "gokul"
+    "open_from": "00:00",
+    "open_to": "00:00",
+    "then_open_from": "00:00",
+    "then_open_to": "00:00",
+    "filter": "",
+    "url":"gokul"
   },
   {
     "id": 34,
     "location": "Raman Reti - Gokul",
     "longitude": 77.7331821798332,
     "latitude": 27.431190348988114,
-    "open_from": "06:00",
-    "open_to": "11:30",
+    "open_from": "04:00",
+    "open_to": "11:00",
     "then_open_from": "16:30",
-    "then_open_to": "20:00",
-    "filter": "mathura",
-    "url": ""
+    "then_open_to": "20:30",
+    "filter": "gokul",
+    "url":""
   },
   {
     "id": 35,
@@ -416,8 +416,8 @@
     "open_to": "12:00",
     "then_open_from": "14:00",
     "then_open_to": "20:30",
-    "filter": "mathura",
-    "url": "https://faujitoursandtravels.com/wp-content/uploads/2024/09/2024-03-15.jpg"
+    "filter": "gokul",
+    "url":"https://faujitoursandtravels.com/wp-content/uploads/2024/09/2024-03-15.jpg"
   },
   {
     "id": 36,
@@ -428,32 +428,32 @@
     "open_to": "12:00",
     "then_open_from": "15:00",
     "then_open_to": "20:00",
-    "filter": "mathura",
-    "url": ""
+    "filter": "gokul",
+    "url":""
   },
   {
     "id": 37,
     "location": "Bramhaan Ghat - Gokul",
     "longitude": 77.74475399584638,
     "latitude": 27.417175161349945,
-    "open_from": "04:00",
-    "open_to": "23:00",
+    "open_from": "00:00",
+    "open_to": "00:00",
     "then_open_from": "00:00",
     "then_open_to": "00:00",
-    "filter": "mathura",
-    "url": ""
+    "filter": "gokul",
+    "url":""
   },
   {
     "id": 38,
     "location": "Radha Rani JI Mahal",
     "longitude": 77.37335189585502,
     "latitude": 27.650199947861665,
-    "open_from": "06:30",
-    "open_to": "13:00",
+    "open_from": "05:00",
+    "open_to": "12:30",
     "then_open_from": "16:30",
-    "then_open_to": "20:00",
+    "then_open_to": "20:30",
     "filter": "barsana",
-    "url": ""
+    "url":""
   },
   {
     "id": 39,
@@ -465,6 +465,6 @@
     "then_open_from": "16:30",
     "then_open_to": "20:00",
     "filter": "barsana",
-    "url": ""
+    "url":""
   }
 ]

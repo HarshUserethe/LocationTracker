@@ -107,28 +107,35 @@ function LocationsList() {
               currentTime
             );
             return (
-              <div 
-                key={loc.id} 
+              <div
+                key={loc.id}
                 className="location-card"
                 onClick={() => openGoogleMapsDirections(loc)}
                 style={{ cursor: 'pointer' }}
               >
                 <div className="card-header">
                   <div className="location-name">
-                    <MapPin size={18} />
+                    {/* <MapPin size={18} /> */}
+                    <div style={{ width: "10vw", height: "10vw", backgroundColor: "#dfdfdf", borderRadius: "50%", border: "2px solid #fff" }}><img style={{ width: "100%", height: "100%", objectFit: "cover", borderRadius: "50%" }} src={loc.url || "https://upload.wikimedia.org/wikipedia/commons/a/a3/Image-not-found.png"} alt="" /></div>
                     <h3>{loc.location}</h3>
                   </div>
-                  <span className={`status-badge ${open ? 'open' : 'closed'}`}>
-                    {open ? 'Open' : 'Closed'}
-                  </span>
+                  <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", width: "100%" }}>
+                    <span className={`status-badge ${open ? 'open' : 'closed'}`}>
+                      {open ? 'Open' : 'Closed'}
+                    </span>
+                    <span style={{ textTransform: "capitalize", fontSize: "3.2vw", color: "orangered" }}>{loc.filter}</span>
+                  </div>
+
                 </div>
                 <div className="card-body">
                   <div className="info-row">
+
                     <span className="label">Distance</span>
                     <span className="value">{loc.distance} km</span>
                   </div>
                   <div className="info-row">
                     <span className="label">Hours</span>
+
                     <span className="value hours-text">
                       {`${loc.open_from} - ${loc.open_to}`}
                       {loc.then_open_from !== loc.open_from && (
