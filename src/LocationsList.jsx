@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Clock, MapPin, Navigation } from 'lucide-react';
 import locationsData from './data/locations.json';
 import './LocationsList.css';
+import FilterButtons from './FilterButtons';
 
 function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
   const R = 6371;
@@ -29,6 +30,8 @@ function LocationsList() {
   const [userLocation, setUserLocation] = useState(null);
   const [sortedLocations, setSortedLocations] = useState([]);
   const [currentTime, setCurrentTime] = useState('');
+  const [filterValues, setFilterValues] = useState([]);
+  const [selectedFilter, setSelectedFilter] = useState('all')
 
   useEffect(() => {
     const now = new Date();
@@ -67,7 +70,7 @@ function LocationsList() {
       locationsWithDistance.sort((a, b) => a.distance - b.distance);
       setSortedLocations(locationsWithDistance);
     }
-  }, [userLocation]);
+  }, [userLocation, selectedFilter]);
 
   const openGoogleMapsDirections = (loc) => {
     if (userLocation && loc.latitude !== 0 && loc.longitude !== 0) {
@@ -80,6 +83,16 @@ function LocationsList() {
     }
   };
 
+  useEffect(() => {
+
+    const allFilters = sortedLocations.flatMap(obj => obj.filter);
+    const uniqueFilters = Array.from(new Set(allFilters));
+    setFilterValues(uniqueFilters)
+     
+  }, [sortedLocations])
+   
+  
+  
   return (
     <div className="locations-list">
       <div className="list-header">
@@ -88,6 +101,20 @@ function LocationsList() {
           <span>Current time: {currentTime}</span>
         </div>
       </div>
+
+    <div className="filter-wrapper">
+      <select className='drop-down' onChange={(e) => setSelectedFilter(e.target.value)}>
+        <option value="all">All</option>
+        {
+         
+         filterValues.map((e, index) => (
+          <option className='options' key={index} style={{textTransform:"capitalize"}} value={e}>{e}</option>
+        ))
+       
+        }
+      </select>
+      </div>
+
 
       {!userLocation && (
         <div className="loading-state">
@@ -98,7 +125,9 @@ function LocationsList() {
 
       {userLocation && (
         <div className="locations-grid">
-          {sortedLocations.map((loc) => {
+          {sortedLocations
+          .filter((loc) => selectedFilter === 'all' || loc.filter === selectedFilter)
+          .map((loc) => {
             const open = isOpen(
               loc.open_from,
               loc.open_to,
