@@ -25,6 +25,7 @@ function App() {
           </button>
         </div>
       </div>
+      
       {page === 'list' ? <LocationsList /> : <Dashboard />}
     </div>
   );

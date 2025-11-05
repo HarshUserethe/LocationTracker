@@ -58,6 +58,27 @@ body {
   background: #4a90e2;
   color: white;
 }
+.filter-wrapper{
+  max-width:100%;
+  height:auto;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  padding: 10px;
+  background-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 5%;
+}
+.filter-buttons{
+  padding:10px 25px 10px 25px ;
+  border-radius: 500px;
+  border:1px solid #ffffff;
+  background-color: #4a90e2;
+  color: #ffffff;
+  cursor: pointer;
+  box-shadow: 1px 1px 5px #23232313;
+}
 
 /* Mobile Responsive */
 @media (max-width: 768px) {

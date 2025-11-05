@@ -126,6 +126,21 @@
 .hours-text {
   font-size: 13px;
 }
+.drop-down{
+  padding: 8px 25px;
+  border-radius: 10px;
+  background-color: rgb(231, 255, 247);
+  border: 1px solid aquamarine;
+  font-weight: bold;
+  text-transform: capitalize;
+  box-shadow: 1px 3px 10px #00000011;
+  color: #555555;
+
+}
+.options{
+  background-color: rgb(246, 255, 252);
+
+}
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
